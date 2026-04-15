@@ -53,30 +53,30 @@ This Privacy Notice for Ronnie Yajima Kok ("we," "us," or "our") describes how a
 
 **In Short:** We collect personal information that you provide to us.
 
-We collect personal information that you voluntarily provide to us when you express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us.
 
 **Sensitive Information.** We do not process sensitive information.
 
 **Application Data.** If you use our application(s), we also may collect the following information if you choose to provide us with access or permission:
 
-- **Geolocation Information.** We may request access or permission to track location-based information from your mobile device, either continuously or while you are using our mobile application(s), to provide certain location-based services. If you wish to change our access or permissions, you may do so in your device's settings.
 - **Mobile Device Data.** We automatically collect device information (such as your mobile device ID, model, and manufacturer), operating system, version information and system configuration information, device and application identification numbers, browser type and version, hardware model, Internet service provider and/or mobile carrier, and Internet Protocol (IP) address (or proxy server).
 - **Push Notifications.** We may request to send you push notifications regarding your account or certain features of the application(s). If you wish to opt out from receiving these types of communications, you may turn them off in your device's settings.
 
 **Information automatically collected:** Some information — such as your Internet Protocol (IP) address and/or browser and device characteristics — is collected automatically when you visit our Services. This information does not reveal your specific identity but may include device and usage information. The information we collect includes:
 
-- **Log and Usage Data.** Log and usage data is service-related, diagnostic, usage, and performance information our servers automatically collect when you access or use our Services.
+- **Log and Usage Data.** Log and usage data is service-related, diagnostic, usage, and performance information our servers automatically collect when you access or use our Services. We use Firebase (by Google) for analytics and crash reporting.
 - **Device Data.** We collect device data such as information about your computer, phone, tablet, or other device you use to access the Services.
 
 ---
 
 ## 2. How Do We Process Your Information?
 
-**In Short:** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law.
+**In Short:** We process your information to improve the app experience.
 
-We process your personal information for a variety of reasons, depending on how you interact with our Services, including:
+We use the collected data to:
 
-- **To save or protect an individual's vital interest.** We may process your information when necessary to save or protect an individual's vital interest, such as to prevent harm.
+- Understand how users interact with the app
+- Improve app performance and features
+- Detect and fix crashes and bugs
 
 ---
 
