@@ -63,7 +63,7 @@ This Privacy Notice for Ronnie Yajima Kok ("we," "us," or "our") describes how a
 
 **Information automatically collected:** Some information — such as your Internet Protocol (IP) address and/or browser and device characteristics — is collected automatically when you visit our Services. This information does not reveal your specific identity but may include device and usage information. The information we collect includes:
 
-- **Log and Usage Data.** Log and usage data is service-related, diagnostic, usage, and performance information our servers automatically collect when you access or use our Services. We use Firebase (by Google) for analytics and crash reporting.
+- **Log and Usage Data.** Log and usage data is service-related, diagnostic, usage, and performance information our servers automatically collect when you access or use our Services. We use Firebase (a service provided by Google) to collect analytics data and monitor app performance.
 - **Device Data.** We collect device data such as information about your computer, phone, tablet, or other device you use to access the Services.
 
 ---
