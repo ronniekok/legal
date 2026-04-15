@@ -19,7 +19,7 @@ This Privacy Notice for Ronnie Yajima Kok ("we," "us," or "our") describes how a
 
 **Do we collect any information from third parties?** We do not collect any information from third parties.
 
-**How do we process your information?** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law.
+**How do we process your information?** We process your information to improve the app experience.
 
 **In what situations and with which parties do we share personal information?** We may share information in specific situations and with specific third parties.
 
