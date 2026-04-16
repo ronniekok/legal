@@ -52,6 +52,12 @@ Your access to and use of the Service is also subject to Our Privacy Policy, whi
 
 ---
 
+## Use of the Service
+
+The Service is intended for personal, non-commercial use only.
+
+---
+
 ## Links to Other Websites
 
 Our Service may contain links to third-party websites or services that are not owned or controlled by the Company.
@@ -85,6 +91,22 @@ Notwithstanding any damages that You might incur, the entire liability of the Co
 To the maximum extent permitted by applicable law, in no event shall the Company or its suppliers be liable for any special, incidental, indirect, or consequential damages whatsoever (including, but not limited to, damages for loss of profits, loss of data or other information, for business interruption, for personal injury, loss of privacy arising out of or in any way related to the use of or inability to use the Service, third-party software and/or third-party hardware used with the Service, or otherwise in connection with any provision of these Terms), even if the Company or any supplier has been advised of the possibility of such damages and even if the remedy fails of its essential purpose.
 
 Some states do not allow the exclusion of implied warranties or limitation of liability for incidental or consequential damages, which means that some of the above limitations may not apply. In these states, each party's liability will be limited to the greatest extent permitted by law.
+
+---
+
+## Acceptable Use
+
+You agree not to use the Service for any unlawful purpose or in any way that could harm the Service or its users.
+
+You may not attempt to interfere with the proper functioning of the Service.
+
+---
+
+## Intellectual Property
+
+The Service and its original content, features, and functionality are and will remain the exclusive property of the Company.
+
+You may not copy, modify, or distribute any part of the Service without permission.
 
 ---
 
