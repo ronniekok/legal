@@ -122,6 +122,18 @@ You represent and warrant that (i) You are not located in a country that is subj
 
 ---
 
+## Subscriptions
+
+Some parts of the Service may be available on a subscription basis. Subscriptions are billed in advance on a recurring basis (such as monthly or annually).
+
+Subscriptions automatically renew unless cancelled at least 24 hours before the end of the current period.
+
+You can manage and cancel your subscriptions through your Apple App Store account settings.
+
+Payments will be charged to your Apple ID account at confirmation of purchase.
+
+---
+
 ## Severability and Waiver
 
 ### Severability
