@@ -58,7 +58,7 @@ This Privacy Notice for Ronnie Yajima Kok ("we," "us," or "our") describes how a
 
 **Application Data.** If you use our application(s), we also may collect the following information if you choose to provide us with access or permission:
 
-- **Mobile Device Data.** We automatically collect device information (such as your mobile device ID, model, and manufacturer), operating system, version information and system configuration information, device and application identification numbers, browser type and version, hardware model, Internet service provider and/or mobile carrier, and Internet Protocol (IP) address (or proxy server).
+- **Mobile Device Data.** We may collect basic device information such as device model, operating system version, and app version to help diagnose crashes and improve performance. This data is not linked to your identity.
 - **Push Notifications.** We may request to send you push notifications regarding your account or certain features of the application(s). If you wish to opt out from receiving these types of communications, you may turn them off in your device's settings.
 
 **Information automatically collected:** Some information — such as your Internet Protocol (IP) address and/or browser and device characteristics — is collected automatically when you visit our Services. This information does not reveal your specific identity but may include device and usage information. The information we collect includes:
